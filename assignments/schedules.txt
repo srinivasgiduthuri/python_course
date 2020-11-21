@@ -1,0 +1,4 @@
+Hibernate and Spring,30-NOV-2020,23-DEC-2020
+Java SE 15,30-NOV-2020,20-JAN-2021
+Python,30-NOV-2020,11-JAN-2021
+Data Science (Machine Learning),30-NOV-2020,11-JAN-2021
